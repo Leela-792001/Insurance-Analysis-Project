@@ -43,7 +43,7 @@ The dashboard provides key metrics and insights into:
 
 ## 📸 Preview
 
-![img]()
+![img](https://github.com/Leela-792001/Insurance-Analysis-Project/blob/main/Excel.png?raw=true)
 
 ---
 
