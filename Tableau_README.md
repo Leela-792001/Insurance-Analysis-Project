@@ -1,4 +1,4 @@
-# 📊 Sample Insurance Dashboard (Tableau-style)
+# 📊 Sample Insurance Dashboard (Tableau)
 
 This dashboard provides a strategic visualization of insurance sales performance, employee activity, and opportunity funnel management. Built using Excel with Tableau-style design elements, it highlights the effectiveness of Cross Sell, New Business, and Renewal efforts across various metrics.
 
@@ -57,7 +57,7 @@ This dashboard provides a strategic visualization of insurance sales performance
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./Tableau.png)
+![img](https://github.com/Leela-792001/Insurance-Analysis-Project/blob/main/Tableau.png?raw=true)
 
 ---
 
