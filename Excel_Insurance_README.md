@@ -43,7 +43,7 @@ The dashboard provides key metrics and insights into:
 
 ## 📸 Preview
 
-![Dashboard Preview](./Excel.png)
+![img]()
 
 ---
 
