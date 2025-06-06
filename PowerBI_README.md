@@ -39,7 +39,7 @@ This project features a Power BI-style Excel dashboard designed to monitor **wee
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./PowerBI.png)
+![img](https://github.com/Leela-792001/Insurance-Analysis-Project/blob/main/PowerBI.png?raw=true)
 
 ---
 
